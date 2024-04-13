@@ -1,4 +1,4 @@
-# WordFlipPackage
+# WordFlip
 
 ## Описание проекта
 
